@@ -1,8 +1,8 @@
-# proot-distro-TUI
+# DexMux-TUI
 
 ### Banners/Badges
 
-![codename](https://img.shields.io/badge/codename-Nino-red?style=for-the-badge&logo=appveyor) ![updm](https://img.shields.io/website?down_color=red&down_message=update%20service%20unavailable&style=for-the-badge&up_color=green&up_message=update%20service%20online&url=https%3A%2F%2Fpastebin.com%2Fraw%2FAgDhMRQD) ![rel](https://img.shields.io/badge/release-stable-green?style=for-the-badge&logo=appveyor)
+![codename](https://img.shields.io/badge/codename-CORTEX-red?style=for-the-badge&logo=appveyor) ![updm](https://img.shields.io/website?down_color=red&down_message=update%20service%20unavailable&style=for-the-badge&up_color=green&up_message=update%20service%20online&url=https%3A%2F%2Fpastebin.com%2Fraw%2FAgDhMRQD) ![rel](https://img.shields.io/badge/release-stable-green?style=for-the-badge&logo=appveyor)
 
 ![banner](img-src/banner.png)
 
